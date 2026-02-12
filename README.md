@@ -16,7 +16,7 @@ DARK_MD-146 𝐁𝐞𝐬𝐭 𝐖𝐡𝐚𝐭𝐬𝐚𝐩𝐩 𝐁𝐨𝐭 𝐂�
 
 *_Start by forking this repository to your own GitHub account. Click the button below to fork:_*
 
-  <a href="https://github.com/xda6/DARK_MD--146/fork"><img title="DARK_MD--146" src="https://img.shields.io/badge/FORK-DARK_MD--146?color=darkblue&style=for-the-badge&logo=stackshare"></a>
+  <a href="https://github.com/xdarkprince146/DARK_MD--146/fork"><img title="DARK_MD--146" src="https://img.shields.io/badge/FORK-DARK_MD--146?color=darkblue&style=for-the-badge&logo=stackshare"></a>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
@@ -24,14 +24,14 @@ DARK_MD-146 𝐁𝐞𝐬𝐭 𝐖𝐡𝐚𝐭𝐬𝐚𝐩𝐩 𝐁𝐨𝐭 𝐂�
 
 > To deploy, generate your session ID from the link below:
 <p align="left">
-  <a href="https://malvin-pair-code-xzcb.onrender.com/?">
+  <a href="https://DARK_MD--146-xzcb.onrender.com/?">
     <img src="https://img.shields.io/badge/%F0%9F%9A%80%20GET%20PAIR%20CODE%20WEB-ffcc00?style=for-the-badge"/>
   </a>
 </p>
 <a><img src='https://files.catbox.moe/8sqzch.jpg'/>
 
 
-<a><img src='https://files.catbox.moe/8sqzch.jpg'/>
+<a><img src=''/>
 
 2. **Obtain the Session ID**: After accessing the URL, you should see a session ID displayed. Copy this session ID.
 
@@ -94,7 +94,7 @@ jobs:
     - name: Start application
       run: npm start
 ```
-<a><img src='https://files.catbox.moe/8sqzch.jpg'/>
+<a><img src=''/>
 
 ### Thank You Dear
 
@@ -106,4 +106,4 @@ jobs:
 - [☠︎︎𓆩ᴰᵃʳᴋ᭄🖤𓆩𝗥𝗔𝗝𝗣𝗢𝗢𝗧¹⁴⁶࿐](https://github.com/xdarkprince146)
 - For helping in bot plugin files.
 ---
-<a><img src='https://files.catbox.moe/8sqzch.jpg'/>
+<a><img src=''/>
