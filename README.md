@@ -8,7 +8,7 @@ DARK_MD-146 𝐁𝐞𝐬𝐭 𝐖𝐡𝐚𝐭𝐬𝐚𝐩𝐩 𝐁𝐨𝐭 𝐂�
 <img src = "https://files.catbox.moe/8sqzch.jpg"  width="300" height="200">
 </img>
  <p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=ff00ab&center=true&vCenter=true&multiline=false&lines=DARK_MD-146+WHATSAPP+BOT+BY+🏴‍☠️تاجـــر الـــموت¹⁴⁶x🖤/☠︎︎𓆩ᴰᵃʳᴋ᭄🖤𓆩𝗥𝗔𝗝𝗣𝗢𝗢𝗧¹⁴⁶࿐" alt="">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=ff00ab&center=true&vCenter=true&multiline=false&lines=DARK_MD-146++BY+☠︎︎𓆩ᴰᵃʳᴋ᭄🖤𓆩𝗥𝗔𝗝𝗣𝗢𝗢𝗧¹⁴⁶࿐🏴‍☠️" alt="">
    
 ## 𝐃𝐄𝐏𝐋𝐎𝐘 𝐒𝐄𝐓𝐔𝐏 ↕️
 
