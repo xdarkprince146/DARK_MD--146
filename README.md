@@ -1,11 +1,11 @@
 # DARK_MD-146
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
-DARK_MD-146 𝐁𝐞𝐬𝐭 𝐖𝐡𝐚𝐭𝐬𝐚𝐩𝐩 𝐁𝐨𝐭 𝐂𝐫𝐞𝐚𝐭𝐞𝐝 𝐁𝐲 ☠︎︎𓆩ᴰᵃʳᴋ᭄🖤𓆩𝗥𝗔𝗝𝗣𝗢𝗢𝗧¹⁴⁶࿐ 🌝💚
+DARK_MD-146 𝐁𝐞𝐬𝐭 𝐖𝐡𝐚𝐭𝐬𝐚𝐩𝐩 𝐁𝐨𝐭 𝐂𝐫𝐞𝐚𝐭𝐞𝐝 𝐁𝐲 ☠︎︎𓆩ᴰᵃʳᴋ᭄🖤𓆩𝗥𝗔𝗝𝗣𝗢𝗢𝗧¹⁴⁶࿐ 🎀💗
 <div class = "repo" align = "center">
  
 <a href = "#">
-<img src = "https://files.catbox.moe/8sqzch.jpg"  width="300" height="200">
+<img src = "https://files.catbox.moe/2e7xvq.jpg"  width="300" height="200">
 </img>
  <p align="center">
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=ff00ab&center=true&vCenter=true&multiline=false&lines=DARK_MD-146++BY+𓆩ᴰᵃʳᴋ᭄𓆩𝗥𝗔𝗝𝗣𝗢𝗧¹⁴⁶࿐" alt="">
@@ -94,7 +94,7 @@ jobs:
     - name: Start application
       run: npm start
 ```
-<a><img src=''/>
+<a><img src='https://files.catbox.moe/xwy72u.jpg'/>
 
 ### Thank You Dear
 
