@@ -24,7 +24,7 @@ DARK_MD-146 𝐁𝐞𝐬𝐭 𝐖𝐡𝐚𝐭𝐬𝐚𝐩𝐩 𝐁𝐨𝐭 𝐂�
 
 > To deploy, generate your session ID from the link below:
 <p align="left">
-  <a href="[https://DARK_MD-146_PAIR-SITE-xzcb.onrender.com/](https://dark-md-pair.onrender.com/)?">
+  <a href="[[https://DARK_MD-146_PAIR-SITE-xzcb.onrender.com/](https://dark-md-pair.onrender.com/)](https://-md-pair.onrender.com/)?">dark
     <img src="https://img.shields.io/badge/%F0%9F%9A%80%20GET%20PAIR%20CODE%20WEB-ffcc00?style=for-the-badge"/>
   </a>
 </p>
