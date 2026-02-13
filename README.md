@@ -106,4 +106,4 @@ jobs:
 - [☠︎︎𓆩ᴰᵃʳᴋ᭄🖤𓆩𝗥𝗔𝗝𝗣𝗢𝗢𝗧¹⁴⁶࿐](https://github.com/xdarkprince146)
 - For helping in bot plugin files.
 ---
-<a><img src=''/>
+<a><img src='https://files.catbox.moe/uwxjf4.jpg'/>
